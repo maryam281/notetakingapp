@@ -15,7 +15,7 @@ class FontWeights {
   static const black = FontWeight.w900;
 }
 
-const kBottomBarSize = 56.0;
+const kBottomBarSize = 60.0;
 const kIconTintLight = Color(0xFF5F6368);
 const kIconTintCheckedLight = Color(0xFF202124);
 const kLabelColorLight = Color(0xFF202124);
