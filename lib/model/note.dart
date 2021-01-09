@@ -164,7 +164,7 @@ extension NoteStateX on NoteState {
       case NoteState.deleted:
         return 'Notes in trash appear here';
       default:
-        return 'Notes you add appear here';
+        return 'Notes you add appear heree';
     }
   }
-}
+
