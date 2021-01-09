@@ -172,7 +172,7 @@ class _NoteEditorState extends State<NoteEditor> with CommandHandler {
   Widget _buildBottomAppBar(BuildContext context) => BottomAppBar(
     child: Container(
       height: kBottomBarSize,
-      padding: const EdgeInsets.symmetric(horizontal: 9),
+      padding: const EdgeInsets.symmetric(horizontal: 7),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: <Widget>[
