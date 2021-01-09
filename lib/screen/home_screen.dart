@@ -151,7 +151,7 @@ class _HomeScreenState extends State<HomeScreen> with CommandHandler {
       padding: const EdgeInsets.symmetric(horizontal: 17),
       child: Row(
         children: <Widget>[
-          const Icon(AppIcons.checkbox, size: 26, color: kIconTintLight),
+          const Icon(AppIcons.checkbox, size: 30, color: kIconTintLight),
           const SizedBox(width: 30),
           const Icon(AppIcons.brush_sharp, size: 26, color: kIconTintLight),
           const SizedBox(width: 30),
