@@ -68,7 +68,7 @@ final kDefaultNoteColor = kNoteColors.first;
 /// [TextStyle] for note title in a preview card
 const kCardTitleLight = TextStyle(
   color: kNoteTitleColorLight,
-  fontSize: 16,
+  fontSize: 17,
   height: 19 / 16,
   fontWeight: FontWeights.medium,
 );
